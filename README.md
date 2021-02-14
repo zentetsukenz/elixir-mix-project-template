@@ -1,5 +1,7 @@
 # ElixirMixProjectTemplate
 
+![CI](https://github.com/zentetsukenz/elixir-mix-project-template/workflows/CI/badge.svg?branch=main)
+
 Template for mix project.
 
 ## Post clone
